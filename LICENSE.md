@@ -1,4 +1,4 @@
-# 
+# Nativo CodeGenius pacote completo. Baixe e instale com sem dependências e GUI disponível — rápido, seguro e fácil de usar.
 
 
 
